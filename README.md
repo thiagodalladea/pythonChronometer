@@ -1,3 +1,3 @@
 # pythonChronometer
 
-Chronometer done in 15 mintues in python.
+Chronometer done in 15 mintues with python.
